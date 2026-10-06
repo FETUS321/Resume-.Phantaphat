@@ -28,7 +28,7 @@ body::before {
 }
 
 
-/* navbar */
+
 
 nav.nb {
     position: sticky;
@@ -116,7 +116,7 @@ nav.nb {
 }
 
 
-/* page wrapper */
+
 
 .page {
     max-width: 1080px;
@@ -127,7 +127,7 @@ nav.nb {
 }
 
 
-/* hero */
+
 
 .hero-grid {
     display: grid;
@@ -457,7 +457,7 @@ nav.nb {
 }
 
 
-/* skill bars */
+
 
 .skill-panel {
     background: #fff;
@@ -503,7 +503,7 @@ nav.nb {
 }
 
 
-/* pills */
+
 
 .pill {
     display: inline-block;
@@ -533,7 +533,7 @@ nav.nb {
 }
 
 
-/* project cards */
+
 
 .proj-card {
     background: #fff;
@@ -618,7 +618,7 @@ nav.nb {
 }
 
 
-/* certificates table */
+
 
 .cert-table {
     width: 100%;
@@ -710,7 +710,7 @@ nav.nb {
 }
 
 
-/* footer */
+
 
 .nb-footer {
     border-top: 2px solid #0a0a0a;
@@ -739,7 +739,7 @@ nav.nb {
 }
 
 
-/* responsive */
+
 
 @media (max-width: 768px) {
     .hero-grid {
